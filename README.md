@@ -14,3 +14,6 @@ seaborn==0.9.0
 scikit-learn==0.20.2
 
 nltk==3.4
+
+
+TO run the code Jupyter notebook is required.
